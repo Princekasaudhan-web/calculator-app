@@ -53,9 +53,7 @@ Open `index.html` in your browser.
 
 ## Preview
 
-![Calculator](images/calculator.png)
-
-
+![Calculator](images/Calculator.png)
 ---
 
 ## Future Improvements
